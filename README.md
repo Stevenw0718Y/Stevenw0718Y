@@ -1,8 +1,8 @@
 # Hola, soy Steven 👋
 
--💻 Desarrollador en formación enfocado en backend
--📊 Actualmente construyendo un ERP como proyecto real
--🧠 Interesado en la lógica de negocio, los sistemas, la arquitectura y el uso estratégico de herramientas como la IA
+- 💻 Desarrollador en formación enfocado en backend
+- 📊 Actualmente construyendo un ERP como proyecto real
+- 🧠 Interesado en la lógica de negocio, los sistemas, la arquitectura y el uso estratégico de herramientas como la IA
 
 ---
 
