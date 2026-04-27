@@ -50,6 +50,12 @@ Actualmente trabajando en:
 
 ---
 
+## 📚 Repositorio favorito de estudio 
+
+* https://github.com/odoo/odoo
+
+---
+
 ## 📫 Contacto
 
 * Email: [stevenq200792@gmail.com]
